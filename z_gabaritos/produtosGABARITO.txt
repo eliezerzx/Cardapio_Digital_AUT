@@ -1,0 +1,2 @@
+Nome | Descrição | Preço
+Pizza Calabresa | Pizza De Calabresa | 99,96

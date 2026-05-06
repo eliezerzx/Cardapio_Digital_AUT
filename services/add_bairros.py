@@ -19,19 +19,16 @@ def cadastrar_bairros():
             continue
 
         try:
-            # Tenta separar por travessão ou hífen comum para evitar erros
-            if '–' in linha:
-                partes = linha.split('–')
-            else:
-                partes = linha.split('-')
+            # Agora separamos apenas por '|' assim como nos produtos
+            partes = linha.split('|')
 
             if len(partes) < 2:
                 print(f"Linha ignorada (formato incorreto): {linha}")
                 continue
 
-            preco = partes[0].replace('R$', '').strip()
-            # Pega o bairro e limpa qualquer resíduo
-            nome_bairro = partes[1].split('-')[0].strip()
+            # Limpa os dados: remove o R$ (se houver) e espaços extras
+            nome_bairro = partes[0].strip()
+            preco = partes[1].replace('R$', '').strip()
 
             print(f"🚀 Cadastrando: {nome_bairro} | R$ {preco}")
 
