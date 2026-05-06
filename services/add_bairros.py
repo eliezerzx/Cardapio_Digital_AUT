@@ -30,7 +30,7 @@ def cadastrar_bairros():
             nome_bairro = partes[0].strip()
             preco = partes[1].replace('R$', '').strip()
 
-            print(f"🚀 Cadastrando: {nome_bairro} | R$ {preco}")
+            print(f" Cadastrando: {nome_bairro} | R$ {preco}")
 
             # --- Automação ---
             # Digita o Bairro (Certifique-se de que o campo já está focado)
