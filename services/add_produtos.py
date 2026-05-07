@@ -47,13 +47,13 @@ def cadastrar_produtos():
         pyperclip.copy(preco)
         pyautogui.hotkey('ctrl', 'v')
         
-        # 4. Scroll (Reduzi para ser mais rápido se possível)
+        # 4. Scroll 
         pyautogui.scroll(-3000) 
         time.sleep(1) 
 
         # 5. Enviar
         pyautogui.click(502, 889) 
-        time.sleep(2.5) # Espera carregar
+        time.sleep(1) # Espera carregar
 
         # 6. Gerenciar Produtos
         pyautogui.click(573, 262)
@@ -61,7 +61,7 @@ def cadastrar_produtos():
 
         # 7. Duplicar
         pyautogui.click(1316, 561)
-        time.sleep(1.5)
+        time.sleep(1)
 
         # 8. Editar Duplicado
         pyautogui.click(1149, 555)

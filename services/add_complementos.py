@@ -42,7 +42,7 @@ def cadastrar_complementos():
         if i < total_linhas - 1:
             # Clica no botão "Adicionar item"
             pyautogui.click(489, 818) 
-            time.sleep(1.2)
+            time.sleep(1)
 
             pyautogui.click(741, 814) # Ajuste essas coordenas para clicar dentro do NOVO campo Nome
             
