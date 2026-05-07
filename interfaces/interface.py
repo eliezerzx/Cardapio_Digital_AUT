@@ -11,8 +11,9 @@ def exibir_menu():
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
 ║   [ GESTÃO DE CARDÁPIO ]                                     ║
-║    [1] Criar Novo Produto                                    ║
+║    [1] Criar Produtos                                        ║
 ║    [2] Criar Bairros                                         ║
+║    [3] Criar Complementos                                    ║
 ║                                                              ║
 ║   [ FINANCEIRO / DESCONTOS ]                                 ║
 ║    [x] Em breve...                                           ║

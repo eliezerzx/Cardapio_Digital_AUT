@@ -63,6 +63,7 @@ def cadastrar_bairros():
             print(f"❌ Erro ao processar linha: {e}")
 
     pyautogui.alert("✅ Todos os bairros foram processados!")
+    somErro.som_sucesso()
 
 if __name__ == "__main__":
     try:

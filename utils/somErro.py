@@ -11,3 +11,4 @@ def som_sucesso():
     winsound.Beep(800, 300)
     time.sleep(0.1)
     winsound.Beep(1000, 400)
+

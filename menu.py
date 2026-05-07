@@ -1,7 +1,10 @@
 from services import add_produtos
 from services import add_bairros
+from services import add_complementos
+
 from interfaces import interface
 from utils import coordenadas
+from utils import somErro
 import sys
 import time
 
@@ -50,7 +53,9 @@ while True:
         barra_carregamento()
         add_bairros.cadastrar_bairros()
 
-
+    if opcao == "3":
+        barra_carregamento()
+        add_complementos.cadastrar_complementos()
 
     # ---- Executa opção "9" para rodar coordenada.py
     elif opcao == "9":

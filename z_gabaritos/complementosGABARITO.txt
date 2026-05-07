@@ -1,0 +1,2 @@
+Nome | Descricao | Valor
+Adicional Queijo | Queijo | 5,00

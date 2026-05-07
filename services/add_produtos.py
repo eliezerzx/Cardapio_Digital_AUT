@@ -67,7 +67,8 @@ def cadastrar_produtos():
         pyautogui.click(1149, 555)
         time.sleep(2) 
 
-    print("✅ Processo concluído com sucesso!")
+    pyautogui.alert("✅ Concluído!")
+    somErro.som_sucesso()
 
 if __name__ == "__main__":
     try:
