@@ -1,82 +1,9 @@
-PORTUGUESA+GUARANA1,5 | MOLHO DE TOMATE, PRESUNTO, ERVILHA, OVOS E MUSSARELA | 55,99
-2 Pizzas Grandes + Guaraná de 1/5 Lt | Pizza De Calabresa, Pizza De Frango Catupiry, Guaraná De 1,5 Lt | 99,96
-2 pizzas+1 Guaraná 1,5lt | 1 pizza Baia Catu grande, 1 frango com mussarela, 1 Guaraná antártica de 1,5lt | 99,99
-2pizzas+guarana1,5lt | 1 portuguesa e 1 calabresa + guarana 1,5lt | 99,95
-A Moda Planet | Presunto, frango, ervilha, milho, palmito, ovos, mussarela, calabresa, e bacon e cebola. | 69,90
-2 pizzas G +coca cola 1,5 lt | Portuguesa, frango Catupiry, coca cola 1.5 lt | 99,98
-A moda do chef | Presunto, cebola, calabresa, palmito, bacon, cheddar, mussarela | 64,99
-2 pizas g+coca cola 1,5lt | 1 lombo Catupiry e cebola, 1 portuguesa 2 mais, 1 coca cola 1,5lt | 100,00
-2 pizzas g+ guarana 1,5 lt | portuguesa/margurita e calabresa/frago Catupiry, guarana 1.5 lt | 99,97
-3 pizzas g+guarana 1,5 lt | 1 calabresa, 1 portuguesa, 1 frango Catupiry, 1 guarana 1,5 lt | 134,99
-4queijos/portuguesa2 | Mussarela, catupiri, provolone e gorgonzola / presunto, milho, palmito, ervilha, ovos, mussarela, bacon | 64,99
-Branca De Neve | Catupiry Com Mussarela | 52,90
-Argentina/tomate seco | Mussarela, calabresa, tomate, cebola e catupiri / frango, tomate seco, catupiri e mussarela | 64,99
-Baiacatu | Calabresa, cebola e Catupiry | 54,90
-Alho/argentina | Alho no azeite, tomate, parmesão e mussarela / mussarela, calabresa, tomate, cebola e catupiri | 64,99
-Baiana | Calabresa, Ovos, Cebola E Pimenta | 51,99
-Bauru 1/2 frago com Catupiry mais um guarana 1,50 lt | Bauru 1/2 frago com Catupiry mais guarana 1,5 lt | 61,99
-Bauru | 8 Fatias | | Presunto, Mussarela E Tomate Fatiado. | 52,90
-Bauru/portuguesa | Presunto, tomate e mussarela / presunto, ervilha, ovos e mussarela | 59,90
-A moda do chefe/marguerita c peperone | Presunto, cebola, calabresa, palmito, bacon, cheddar e mussarela / mussarela, tomate, manjericão e parmesão | 69,90
-Calabresa + Coca 1,5 Lt | Calabresa e cebola, Coca Cola 1,5 Lt, mais borda de Catupiry ou cheddar | 61,99
-Calabresa G + Guaraná 1/5 Lt | Calabresa e cebola, Guaraná de 1,5 Lt | 61,99
-Calabresa | 8 Fatias | | Calabresa e cebola. | 51,90
-Calabresa com mussarela e cebola | Calabresa com mussarela e cebola | 59,99
-Calabresa +borda de cheddar | Calabresa + bordar de cheddar | 54,90
-Calabresa/bauru | Mussarela, calabresa fatiada e cebola / presunto, tomate e mussarela | 59,90
-Calabresa1/2marguerita+borda de Catupiry ou cheddar | Calabresa1/2marguerita+borda de Catupiry ou cheddar | 54,90
-Frango Catupiry / Portuguesa + Guarana De 1,5 Lt | Frango com Catupiry, Presunto, ervilha, ovos, e mussarela, Guaraná de 1,5 Lt. | 61,99
-Frango Catupiry\Calabresa com Catupiry | Frango Catupiry e Calabresa com Catupiry | 54,99
-Frango Catupiry | Frango com Catupiry | 59,90
-Frango Mussarela | Frango com mussarela. | 59,90
-Hawaiana | Alho, cebola, presunto, mussarela, parmesão | 59,99
-Frango c catupiri/calabresa com mussarela | Frango e catupiri / calabresa fatiada, mussarela e cebola | 59,99
-Frango c mussarela/baiacatu | Frango e mussarela / calabresa, catupiri e cebola | 59,90
-Italiana | Molho, mucarela, palmito, tomate seco | 59,99
-Jardim Camburi | Presunto, Frango, Milho, Bacon e Mussarela | 59,99
-Jardim da penha | Calabresa moida, frango, tomate e mussarela | 59,99
-Lombo 2 | Lombo Com Catupiry E Cebola | 59,90
-Lombo/champignon | Lombo e mussarela / champignon e mussarela | 59,90
-Lombo/calabresa | Lombo, mussarela / mussarela, calabresa fatiada e cebola | 59,90
-Lombo/marguerita | Lombo e mussarela / mussarela, tomate, manjericão e parmesão | 58,00
-Lombo2/frango com catupiri | Lombo e catupiri / frango e catupiri | 54,99
-Marguerita com Peperoni | Mussarela, tomate fatiado, manjericão, parmesão e peperoni | 64,90
-Marguerita +guarana 1,5 lt | Mussarela, Tomate Fatiado, Manjericao E Parmesão | 63,99
-Marguerita/frango catupiri | Mussarela, tomate, parmesão e manjericão / frango e catupiri | 54,99
-Milho 2 | Milho E Catupiry | 50,99
-Peperoni | Mussarela e peperoni | 59,99
-Napolitana | Mussarela, Tomate Fatiado, Parmesao Ralado. | 54,99
-Pizza 3 Sabores + Coca Cola 1,5 Lt | Portuguesa, Calabresa, Frango Catupiry, Coca De 1,5 Lt | 64,99
-Pizza Baiacatú/Marguerita | Baiacatú (Calabresa, Cebola e Catupiry), Marguerita (Mussarela, tomate, Manjericão e Parmesão) | 59,90
-Pizza De 3 Sabores + Guaraná 1,5 Lt | Portuguesa, Calabresa, Frango Catupiry, Guaraná de 1,5 lt | 62,99
-Pizza De Brigadeiro | Fatias | | Chocolate, Granulado E Leite Condensado | 59,99
-Pizza g 3 sabores port/cala/frango catu + borda | Presunto, ervilha, ovos e mussarela, Calabresa e cebola, Frango e Catupiry. | 59,90
-Pizza de 3 sabores bauru tomate seco e quatro queijo | quatro queijo 1/3, bauru 1/3, tomate seco 1/3 | 64,90
-Pizza g frango catu/cala + borda | Frango com Catupiry, Calabresa acebolada. | 51,99
-Pizza g frango Catupiry +Guaraná de 1,5 lt | Frango com Catupiry, Guaraná de 1,5 lt | 61,99
-Pizza g port/frango catu + borda | Presunto, ervilha, ovos e mussarela, Frango Com Catupiry. | 54,91
-Pizza g portuguesa 1/2 calabresa + borda | Presunto, ervilha, ovos e mussarela 1/2, Calabresa e cebola. | 51,99
-Portuguesa 1/ 2 baiacatu | Presunto, ervilha, ovos e mussarela / calabresa, Catupiry e cebola | 54,99
-Portuguesa | Mussarela, Presunto, Ervilha, E Ovos. | 54,90
-Portuguesa 2 / Canadense | Presunto, Milho, Ervilha, Ovos, Mussarela, Bacon / Lombo canadense, Catupiry e bacon. | 64,90
-Portuguesa1/2marguerita | 1/2 Portuguesa E 1/2 Marguerita | 54,90
-Quatro Queijos1\2calabresa com Mussarela | Mussarela, Gorgonzola, Provolone e Catupiry, 1/2 calabresa com mussarela | 61,99
-Siciliana1/24queijo | Mussarela, champignon e bacon / mussarela, Catupiry, gorgonzola e provolone | 61,99
-Toscana/portuguesa2 | Calabresa, bacon e parmesão / presunto, milho, palmito, ervilha, ovos, mussarela, bacon | 64,90
-Paulista | Molho, presunto, palmito, mucarela, bacon | 59,99
-Presunto | Molho, presunto, mucarela | 54,91
-Sertaneja | Molho, lombo canadense, milho, cebola, alho frito mucarela | 59,99
-Franbacon | Molho, frango, milho, cebola, mucarela, bacon | 64,90
-Brócolis | Molho, brócolis, bacon, muçarela | 54,91
-Portuguesa | Presunto, ovo, ervilha, mussarela | 59,99
-Frango Catupiry 1/2 calabresa acebolada | Frango com Catupiry 1/2 calabresa e cebola | 59,99
-Portuguesa 1/2 frango Catupiry | Portuguesa e frango Catupiry | 54,90
-Pizza calab/Portug/Lombo catup | 1/3 calabresa, 1/3 Portuguesa, 1/3 Lombo Catupiry | 54,99
-Marguerita | 8 Fatias | | Mussarela, Tomate Fatiado, Manjericao E Parmesão | 59,90
-Pizza De 3 Sabores port/calab/frango Catupiry | 8 Fatias | | Portuguesa, calabresa, frango Catupiry | 59,90
-portuguesa+coca zero 1,5 | presunto ovos ervilha e mussarela | 66,00
-frango com catupiry + coca zero 1,5 | frango e catupiry | 66,00
-calabresa acebolada + coca zero 1,5 | calabresa e cebola apenas | 66,00
-1 pizza portuguesa 1 pizza calabresa com mussarela + cica 1,5 zero | Portuguesa, calabresa com mussarela, coca 1,5 zero | 121,00
-portuguesa 2 + coca 1,5 zero | presunto ervilha ovos mussarela milho bacon e palmito | 71,00
-marguerita + coca zero 1,5 | mussarela parmesao tomate e manjericao | 66,00
+SENSAÇÃO | chocolate com pedaços de morango | 0,00
+ROMEU E JULIETA | queijo mussarela com goiabada | 0,00
+PRESTÍGIO | chocolate com coco ralado | 0,00
+PAÇOQUINHA | chocolate com paçoca de amendoim moída | 0,00
+MSM | chocolate com confetes coloridos | 0,00
+KIT KAT | chocolate ao leite com pedaços de kit kat | 0,00
+CHOCONANA | banana fatiada com cobertura de chocolate | 0,00
+BRIGADEIRO | chocolate ao leite com granulado | 0,00
+BANANA | banana com canela e leite condensado | 0,00

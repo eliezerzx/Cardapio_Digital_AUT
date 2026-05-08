@@ -54,8 +54,8 @@ def cadastrar_complementos():
             time.sleep(0.5)
             pyautogui.click(573, 901) # Coordenada do Enviar
 
-    pyautogui.alert("✅ Concluído!")
     somErro.som_sucesso()
+    pyautogui.alert("✅ Concluído!")
 
 if __name__ == "__main__":
     try:

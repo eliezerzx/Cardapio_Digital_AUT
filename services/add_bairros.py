@@ -62,8 +62,8 @@ def cadastrar_bairros():
         except Exception as e:
             print(f"❌ Erro ao processar linha: {e}")
 
-    pyautogui.alert("✅ Todos os bairros foram processados!")
     somErro.som_sucesso()
+    pyautogui.alert("✅ Todos os bairros foram processados!")
 
 if __name__ == "__main__":
     try:

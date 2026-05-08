@@ -32,7 +32,7 @@ def cadastrar_produtos():
 
         # --- PREENCHIMENTO ---
         # 1. Nome
-        pyautogui.moveTo(771, 395, duration=0.1)
+        pyautogui.moveTo(563, 313, duration=0.1)
         pyautogui.tripleClick()
         pyperclip.copy(nome)
         pyautogui.hotkey('ctrl', 'v')
@@ -48,23 +48,23 @@ def cadastrar_produtos():
         pyautogui.hotkey('ctrl', 'v')
         
         # 4. Scroll 
-        pyautogui.scroll(-3000) 
-        time.sleep(1) 
+        #pyautogui.scroll(-3000) 
+        #time.sleep(1) 
 
         # 5. Enviar
-        pyautogui.click(502, 889) 
+        pyautogui.click(977, 985) 
         time.sleep(1) # Espera carregar
 
         # 6. Gerenciar Produtos
-        pyautogui.click(573, 262)
+        pyautogui.click(542, 202)
         time.sleep(1)
 
         # 7. Duplicar
-        pyautogui.click(1316, 561)
+        pyautogui.click(1583, 531)
         time.sleep(1)
 
         # 8. Editar Duplicado
-        pyautogui.click(1149, 555)
+        pyautogui.click(1524, 535)
         time.sleep(2) 
 
     somErro.som_sucesso()
