@@ -49,18 +49,21 @@ while True:
         barra_carregamento()
         add_produtos.cadastrar_produtos()
     
-    # ---- Executa opção "2" para rodar add.bairros.py
+    # ---- Executa opção "2" para rodar add.produtos_new.py
     if opcao == "2":
+        barra_carregamento()
+        add_produtos_new.cadastrar_produtos()
+
+    # ---- Executa opção "3" para rodar add.bairros.py
+    if opcao == "3":
         barra_carregamento()
         add_bairros.cadastrar_bairros()
 
-    if opcao == "3":
+    # ---- Executa opção "2" para rodar add_complementos.py
+    if opcao == "4":
         barra_carregamento()
         add_complementos.cadastrar_complementos()
 
-    if opcao == "4":
-        barra_carregamento()
-        add_produtos_new.cadastrar_produtos()
 
     # ---- Executa opção "9" para rodar coordenada.py
     elif opcao == "9":

@@ -12,8 +12,9 @@ def exibir_menu():
 ║                                                              ║
 ║   [ GESTÃO DE CARDÁPIO ]                                     ║
 ║    [1] Criar Produtos                                        ║
-║    [2] Criar Bairros                                         ║
-║    [3] Criar Complementos                                    ║
+║    [2] Criar Produtos [ Cardapio Novo ]                      ║          
+║    [3] Criar Bairros                                         ║
+║    [4] Criar Complementos                                    ║
 ║                                                              ║
 ║   [ FINANCEIRO / DESCONTOS ]                                 ║
 ║    [x] Em breve...                                           ║
